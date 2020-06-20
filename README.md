@@ -8,7 +8,7 @@
 <ul>
   <h4>
     <li>
-       Jupyter notebook <img src="https://icon-icons.com/icons2/2107/PNG/48/file_type_jupyter_icon_130494.png">  - Microsoft Azure
+       Jupyter notebook <img src="https://icon-icons.com/icons2/2107/PNG/48/file_type_jupyter_icon_130494.png" height="30">  - Microsoft Azure
     </li> 
   </h4>
   </ul>
