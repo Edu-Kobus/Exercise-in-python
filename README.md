@@ -22,7 +22,7 @@
 &nbsp;
 
 <h2> Observações :exclamation: </h2>
-<h4> Para acesso do conteúdo basta clicar nos arquivos ".ipynb" dentro do repositório. </h4>
+<h4> Para acesso do conteúdo basta clicar nos arquivos "[.ipynb](https://github.com/Edu-Kobus/Exercise-in-python/tree/master/Operations)" dentro do repositório. </h4>
 
 &nbsp;
 
